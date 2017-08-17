@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>
+  my first webapp
+</title>
+</head>
+
+<body>
+<h1> I am excited to introduce myself !! </h1>
+<div>
+  <p> hii i am akshaya. i am new to coding and webapp designing. excited to do some terrific stuff.
+      thanks to github for creating this platform
+</div></body>
+</html>
+
+h1{
+color : red
+}
+body{
+background : green
+}
